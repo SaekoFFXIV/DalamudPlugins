@@ -9,7 +9,7 @@ Custom Dalamud plugin repository for FFXIV.
 3. Add this URL under **Custom Plugin Repositories**:
 
    ```text
-   https://raw.githubusercontent.com/kaitFFXIV/DalamudPlugins/main/repo.json
+   https://raw.githubusercontent.com/SaekoFFXIV/DalamudPlugins/main/repo.json
    ```
 
 4. Save, open `/xlplugins`, and search for the plugin by name.
@@ -18,4 +18,4 @@ Custom Dalamud plugin repository for FFXIV.
 
 | Plugin | Description | Source |
 | --- | --- | --- |
-| F-List Link | Opens F-list profiles advertised in player search comments. | [kaitFFXIV/FListLink](https://github.com/kaitFFXIV/FListLink) |
+| F-List Link | Opens F-list profiles advertised in player search comments. | [SaekoFFXIV/FListLink](https://github.com/SaekoFFXIV/FListLink) |

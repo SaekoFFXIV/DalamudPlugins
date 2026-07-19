@@ -7,7 +7,7 @@
     "TestingAssemblyVersion": "1.0.0.0",
     "Description": "Adds an Open F-list Profile action to nearby player context menus and the /flink command. A standalone /c/, /c, or c/ marker uses the player's FFXIV name; c/<name> accepts letters, underscores, and hyphens.",
     "ApplicableVersion": "any",
-    "RepoUrl": "https://github.com/kaitFFXIV/FListLink",
+    "RepoUrl": "https://github.com/SaekoFFXIV/FListLink",
     "Tags": [
       "utility",
       "social",
@@ -19,8 +19,8 @@
     "Punchline": "Open F-list profiles advertised in player search comments.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/kaitFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/kaitFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/kaitFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/FListLink/releases/download/v1.0.0.0/latest.zip"
   }
 ]
