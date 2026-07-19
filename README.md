@@ -1,4 +1,4 @@
-# Kait's Dalamud Plugins
+# Saeko's Dalamud Plugins
 
 Custom Dalamud plugin repository for FFXIV.
 
