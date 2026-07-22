@@ -18,4 +18,4 @@ Custom Dalamud plugin repository for FFXIV.
 
 | Plugin | Description | Source |
 | --- | --- | --- |
-| F-List Link | Opens F-list profiles advertised in player search comments. | [SaekoFFXIV/FListLink](https://github.com/SaekoFFXIV/FListLink) |
+| Easy Social Media Plugin | Opens F-list and X profiles advertised in player search comments. | [SaekoFFXIV/EasySocialMediaPlugin](https://github.com/SaekoFFXIV/EasySocialMediaPlugin) |
