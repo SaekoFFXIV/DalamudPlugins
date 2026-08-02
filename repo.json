@@ -3,9 +3,9 @@
     "Author": "Kait",
     "Name": "Easy Social Media Plugin",
     "InternalName": "EasySocialMediaPlugin",
-    "AssemblyVersion": "1.1.0.0",
-    "TestingAssemblyVersion": "1.1.0.0",
-    "Description": "Draws buttons beside the Adventurer Plate and Examine windows that open F-list (/c/ marker) and X (@handle) profiles found in a player's search comment. Also adds an Open F-list Profile context-menu action and the /social command for your current target. A standalone /c/, /c, or c/ marker uses the player's FFXIV name; c/<name> accepts letters, underscores, and hyphens.",
+    "AssemblyVersion": "1.2.0.0",
+    "TestingAssemblyVersion": "1.2.0.0",
+    "Description": "Draws buttons beside the Adventurer Plate and Examine windows that open F-list (/c/ marker), X (@handle), Carrd (.carrd.co), RefSheet (ref.st/name), and RpHub (rphub.co/ch/) profiles found in a player's search comment. Also adds an Open F-list Profile context-menu action and the /social command for your current target.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin",
     "Tags": [
@@ -19,9 +19,9 @@
     "Punchline": "Open F-list and X profiles advertised in player search comments.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip",
-    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip"
+    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.2.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.2.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.2.0.0/latest.zip"
   },
   {
     "Author": "Kait",
