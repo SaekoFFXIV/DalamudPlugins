@@ -22,5 +22,29 @@
     "DownloadLinkInstall": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip",
     "DownloadLinkTesting": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip",
     "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/EasySocialMediaPlugin/releases/download/v1.1.0.0/latest.zip"
+  },
+  {
+    "Author": "Kait",
+    "Name": "RetroFFXIV",
+    "InternalName": "SnesEmulator",
+    "AssemblyVersion": "0.1.0.0",
+    "TestingAssemblyVersion": "0.1.0.0",
+    "Description": "A multi-core libretro emulator embedded in a Dalamud window. Drop any libretro core into the cores/ folder — SNES, GBA, Genesis, and more. Keyboard and controller support, configurable key bindings, resolution scaling, CRT effects, friend spectating, and netplay.",
+    "ApplicableVersion": "any",
+    "RepoUrl": "https://github.com/SaekoFFXIV/Emulation-Hub",
+    "Tags": [
+      "emulator",
+      "retro",
+      "utility"
+    ],
+    "DalamudApiLevel": 15,
+    "TestingDalamudApiLevel": 15,
+    "LoadPriority": 0,
+    "Punchline": "Play retro games inside FFXIV.",
+    "IsHide": false,
+    "IsTestingExclusive": false,
+    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/Emulation-Hub/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/Emulation-Hub/releases/download/v0.1.0.0/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/Emulation-Hub/releases/download/v0.1.0.0/latest.zip"
   }
 ]
