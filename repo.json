@@ -27,8 +27,8 @@
     "Author": "Kait",
     "Name": "RetroFFXIV",
     "InternalName": "RetroXIV",
-    "AssemblyVersion": "0.2.8.5",
-    "TestingAssemblyVersion": "0.2.8.5",
+    "AssemblyVersion": "0.2.8.6",
+    "TestingAssemblyVersion": "0.2.8.6",
     "Description": "A multi-core libretro emulator embedded in a Dalamud window. Drop any libretro core into the cores/ folder — SNES, GBA, Genesis, and more. Keyboard and controller support, configurable key bindings, resolution scaling, CRT effects, friend spectating, and netplay.",
     "ApplicableVersion": "any",
     "RepoUrl": "https://github.com/SaekoFFXIV/RetroFFXIV",
@@ -43,8 +43,8 @@
     "Punchline": "Play retro games inside FFXIV.",
     "IsHide": false,
     "IsTestingExclusive": false,
-    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.5/latest.zip",
-    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.5/latest.zip",
-    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.5/latest.zip"
+    "DownloadLinkInstall": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.6/latest.zip",
+    "DownloadLinkTesting": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.6/latest.zip",
+    "DownloadLinkUpdate": "https://github.com/SaekoFFXIV/RetroFFXIV/releases/download/v0.2.8.6/latest.zip"
   }
 ]
